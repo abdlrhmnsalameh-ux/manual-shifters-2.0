@@ -1,1 +1,0 @@
-# manual-shifters-2.0

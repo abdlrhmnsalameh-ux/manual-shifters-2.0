@@ -1,0 +1,16 @@
+{
+  "name": "apex-loop-multiplayer",
+  "version": "2.0.0",
+  "description": "Apex Loop - 3D multiplayer racing game with rooms, live leaderboard and car collisions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "license": "MIT"
+}
